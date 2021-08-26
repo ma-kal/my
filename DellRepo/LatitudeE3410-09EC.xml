@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest baseLocation="downloads.dell.com" dateTime="2021-08-26T14:21:51.0425076Z" releaseId="dc99736e-86ee-4696-93bc-48ed4cca74df" name="LatitudeE3410-09EC" description="" >
+<InventoryComponent inventoryCollectorType="COMPACT" schemaVersion="3.0" releaseID="9FCMG" releaseDate="August 19, 2021" vendorVersion="10.0.0.0" dellVersion="A00" osCode="WIN" path="FOLDER07627443M/1/InvColPC_10.0.0.0.exe" size="10567416" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">ff9a1eeb41a3dfda36d177c02d655ea9</Hash>
+      <Hash algorithm="SHA256">05f1999ecc0fb0ebb0911ec34e50577981695bbd7390be6696b9905daedce33b</Hash>
+      <Hash algorithm="SHA1">53b14f6ffe0d4117cb4f4bcaaba9ccf2876c46cc</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<InventoryComponent inventoryCollectorType="COMPREHENSIVE" schemaVersion="3.0" releaseID="5H64P" releaseDate="August 19, 2021" vendorVersion="10.0.0.0" dellVersion="A00" osCode="WIN" path="FOLDER07627465M/1/InvColPC_10.0.0.0.exe" size="23454064" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">4c8e995e06c636315e44aa05ad2d8e61</Hash>
+      <Hash algorithm="SHA256">1e1c979b4e7349a793a28d1d510bdb2c90376a453dcf5a83c99ada97a848ace6</Hash>
+      <Hash algorithm="SHA1" />
+    </Cryptography>
+  </InventoryComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="8GG09" releaseDate="August 02, 2021" vendorVersion="2.5.0" dellVersion="A03" packageType="LWXP" path="FOLDER07604649M/1/DBUtil-Removal-Utility_8GG09_WIN_2.5.0_A03.EXE" packageID="8GG09" dateTime="2021-05-11T21:02:55+05:30" size="8412088" identifier="1bd1d853-0b81-45bb-a959-bc7bb745bec7" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[DBUtil Removal Utility]]></Display>
+  </Name>
+  <ComponentType value="APAC">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the remedy described in Dell Security Advisory DSA-2021-088 and DSA-2021-152.]]></Display>
+  </Description>
+  <Category value="SY">
+    <Display lang="en"><![CDATA[Security]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="111084" embedded="false">
+      <Display><![CDATA[DSA-2021-088,UTILITY]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P2" osVendor="Microsoft" osArch="x86" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 32-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7P32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W8-32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="2" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W8-64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="2" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H2" osVendor="Microsoft" osArch="x86" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 32-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7HP3" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7H64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB32P" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7Pr6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64P" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7H32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7HP6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=8GG09">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">fadf5186af0fb2fdf96e2e8da5f519d3</Hash>
+    <Hash algorithm="SHA256">4f47bb2b97f7dc292d702886806bb8e4d819e261b2834ea502b7aaa9443bfdd4</Hash>
+    <Hash algorithm="SHA1">fc7f0e23a4a573824e1dc3693db0fa4a9df8c8b5</Hash>
+  </Cryptography>
+</SoftwareComponent>
+</Manifest>
